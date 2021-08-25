@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575446198 source:/media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 11 AVL Trees Implementation/AVL Code/AVL Trees/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"AVL.h"
+
+1575446311 /media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 11 AVL Trees Implementation/AVL Code/AVL Trees/node.h
+
+1574927475 /media/omar/STUFF/DataStructures Fall 2019/Labs/Lab 11 AVL Trees Implementation/AVL Code/AVL Trees/AVL.h
+
